@@ -4,6 +4,4 @@ document.getElementById('btn_remove').addEventListener('click' , () => {
     document.getElementById('part').style.transition = 'all .5 s'
 
 })
-document.getElementById('btn-remove').addEventListener('click' , () => {
-    document.getElementById('part').style.backgroundColor = "blue"
-})
+document.getElementById('part').style.backgroundColor = "blue"
